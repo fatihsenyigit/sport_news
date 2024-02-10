@@ -59,7 +59,7 @@ h1 {
 
 .content1 img {
     border-radius: 1rem;
-    box-shadow: 1px 1px 8px 3px rgba(89, 53, 53, 0.674) ;
+     box-shadow: 1px 1px 8px 3px rgb(147, 31, 13) ;
     height: 70%;
     width: 100%;
     object-fit: cover;
@@ -70,7 +70,7 @@ h1 {
 
 .content2 img {
     border-radius: 1rem;
-    box-shadow: 1px 1px 8px 3px rgba(89, 53, 53, 0.674) ;
+     box-shadow: 1px 1px 8px 3px rgb(147, 31, 13) ;
     height: 70%;
     width: 100%;
     object-fit: cover;
@@ -89,7 +89,7 @@ h1 {
 
 .content3 img {
     border-radius: 1rem;
-    box-shadow: 1px 1px 8px 3px rgba(89, 53, 53, 0.674) ;
+     box-shadow: 1px 1px 8px 3px rgb(147, 31, 13) ;
     height: 70%;
     width: 100%;
     object-fit: cover;
@@ -108,7 +108,7 @@ h1 {
 
 .content4 img {
     border-radius: 1rem;
-    box-shadow: 1px 1px 8px 3px rgba(89, 53, 53, 0.674) ;
+     box-shadow: 1px 1px 8px 3px rgb(147, 31, 13) ;
     height: 70%;
     width: 100%;
     object-fit: cover;
@@ -127,7 +127,7 @@ h1 {
 
 .content5 img {
     border-radius: 1rem;
-    box-shadow: 1px 1px 8px 3px rgba(89, 53, 53, 0.674) ;
+    box-shadow: 1px 1px 8px 3px rgb(147, 31, 13) ;
     height: 70%;
     width: 100%;
     object-fit: cover;
@@ -152,7 +152,7 @@ h1 {
 
 .content6 img {
     border-radius: 1rem;
-    box-shadow: 1px 1px 8px 3px rgba(89, 53, 53, 0.674) ;
+    box-shadow: 1px 1px 8px 3px rgb(147, 31, 13) ;
     height: 70%;
     width: 100%;
     object-fit: cover;
@@ -168,3 +168,26 @@ h1 {
     align-items: center;
 }
 
+.content1:hover {
+    scale: 1.01;
+}
+
+.content2:hover {
+    scale: 1.01;
+}
+
+.content3:hover {
+    scale: 1.01;
+}
+
+.content4:hover {
+    scale: 1.01;
+}
+
+.content5:hover {
+    scale: 1.01;
+}
+
+.content6:hover {
+    scale: 1.01;
+}
